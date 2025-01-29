@@ -19,6 +19,14 @@ Follow these steps to run the application:
 
 These commands will compile the Vue.js files and start the web server.
 
+## Important
+
+Example connection URI: 'mongodb://username:password@hostname:27017/database?authSource=admin'
+
+authSource=admin
+
+This prefix must be used because all user operations are performed in the admin database.
+
 ## Features
 
 With this application, you can:
