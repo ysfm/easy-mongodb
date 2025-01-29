@@ -1,0 +1,21 @@
+{
+  "name": "easy-mongodb",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ysfm",
+  "license": "GNU/GPLv3",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.1",
+    "jose": "^5.9.6",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^4.10.0"
+  }
+}
